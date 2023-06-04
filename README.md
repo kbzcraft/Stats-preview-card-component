@@ -1,5 +1,5 @@
 # Frontend Mentor - Stats preview card component
-
+# [live preview Website](https://kbzcraft.github.io/Stats-preview-card-component/)
 ![Design preview for the Stats preview card component coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
